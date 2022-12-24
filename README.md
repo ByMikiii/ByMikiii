@@ -1,4 +1,10 @@
+<br/> 
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/ByMikiii/ByMikiii/main/nyan.png" align="center" height="" width="400" />
+</div>  
+  
+<br/> 
 <br/>  
 
 <table><tr><td valign="top" width="33%">
@@ -74,7 +80,3 @@
 
 <br />
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/ByMikiii/ByMikiii/main/nyan.png" align="center" height="" width="600" />
-</div>  
-  
