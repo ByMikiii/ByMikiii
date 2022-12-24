@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/ByMikiii/ByMikiii/main/greetings.gif" align="center" height="" width="600" />
-</div>  
-  
 
 <br/>  
 
