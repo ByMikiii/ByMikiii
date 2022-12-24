@@ -44,7 +44,8 @@
 <br/>  
 
 
-## Connect with me  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=odzwnmdim5qpble0rp6ylbsdy&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div> 
+
 <div align="center">
 <a href="https://github.com/ByMikiii" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -66,17 +67,7 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ByMikiii&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=odzwnmdim5qpble0rp6ylbsdy&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
+ 
 
 <br/>  
 
