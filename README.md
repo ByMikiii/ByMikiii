@@ -1,13 +1,15 @@
-<br/> 
 
+
+<br/> 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ByMikiii/ByMikiii/main/thisisfine.gif" align="center" height="" width="400" />
+<img src="https://i.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.webp" align="center" height="" width="700" />
+
 </div>  
   
 <br/> 
 <br/>  
 
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
 
 
 
