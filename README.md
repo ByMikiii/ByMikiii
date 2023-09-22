@@ -1,7 +1,7 @@
 <br/> 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ByMikiii/ByMikiii/main/nyan.png" align="center" height="" width="400" />
+<img src="https://raw.githubusercontent.com/ByMikiii/ByMikiii/main/thisisfine.gif" align="center" height="" width="400" />
 </div>  
   
 <br/> 
@@ -69,7 +69,6 @@
 
 <br/>  
 
- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=odzwnmdim5qpble0rp6ylbsdy&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div> 
 
 <br/>  
 
