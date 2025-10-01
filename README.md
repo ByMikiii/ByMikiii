@@ -1,23 +1,3 @@
-
-
-<br/>
 <div align="center">
-<img src="https://i.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.webp" align="center" height="" width="700" />
-
+  <img src="https://i.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.webp" align="center" height="" width="850" />
 </div>
-
-<br/>
-<br/>
-
-
-<br/>
-
-
-<br/>
-
-
-
-<br/>
-
-
-<br />
